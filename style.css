@@ -1,0 +1,16 @@
+.name {
+    text-align: center;
+}
+
+.tex {
+    text-align: center;
+}
+.output {
+    height: 450px;
+    width: 800px;
+    overflow-y: scroll;
+    margin: auto;
+}
+.color {
+    color: rgba(3, 160, 3, 0.699);
+}
